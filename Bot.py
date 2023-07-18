@@ -5,7 +5,7 @@ import telebot
 from bs4 import BeautifulSoup
 from telebot import types
 
-TOKEN = "6157881397:AAFL5TOeG14EIIvyTYvggT-oBvpbi7Pl9Rc"
+TOKEN = "your token"
 
 bot = telebot.TeleBot(TOKEN)
 
